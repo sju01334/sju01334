@@ -1,18 +1,33 @@
-## 👋 Hi there 👋 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-#### Hello! I am Frontend Developer Mijin 👨‍💻
-<br>
+## 👋 Hi there, I'm mijin 👋 
+
+<div align="left">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=tokyonight"/>
+
+안녕하세요! 단란한 협업을 꿈꾸는 설계자 출신 개발자 입니다!<br>
+프로트와 백앤드에 모두 관심이 있으며, 현재는 공부중입니다 💛
+
+## 💻 Studying now...
+
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logoColor=white">
 
 
-## Studying now...💻
-- Kotlin
-- Java
-- Android
-- Algorithm
-- Flutter
+</div>
 
+<br><br>
 
-## My Stack
+## ⚙ My Stack 🛠
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sju01334&theme=dracula&layout=compact&langs_count=10"/>
+<div align = "center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -29,21 +44,22 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sju01334&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
+
 
 
 
 
  
-
 
 <!--
 **sju01334/sju01334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,7 +67,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
