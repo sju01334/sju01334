@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sju01334&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
