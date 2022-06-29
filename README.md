@@ -10,8 +10,8 @@
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"><br>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square=flutter&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logoColor=white">
 
 
@@ -21,13 +21,11 @@
 
 ## ⚙ My Stack 🛠
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sju01334&theme=dracula&layout=compact&langs_count=10"/>
-<div align = "center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-<br>
+<div align = "left">
+
+#### ✨ I once used...  <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -44,11 +42,11 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 
