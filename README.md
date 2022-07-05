@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square=flutter&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square=Flutter&logoColor=white"><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logoColor=white">
 
@@ -51,9 +51,14 @@
 </div>
 
 
-## 📃 My Portfolio✏
+<br>
 
-https://glossy-amaranthus-45d.notion.site/b4efdeaf86a4458bbb40c42d86ca04e0
+## 📃 My Resume & Portfolio ✏
+
+<a href="https://glossy-amaranthus-45d.notion.site/b4efdeaf86a4458bbb40c42d86ca04e0">
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+ </a>
+
 
 
 
