@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=tokyonight"/>
 
 안녕하세요! 단란한 협업을 꿈꾸는 설계자 출신 개발자 입니다!<br>
-프로트와 백앤드에 모두 관심이 있으며, 현재는 공부중입니다 💛
+프로트와 백앤드에 모두 관심이 있으며, 현재는 현명한 개발자가 되기위해 공부중입니다 💛
 
 ## 💻 Studying now...
 
