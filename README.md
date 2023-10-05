@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sju01334&show_icons=true&theme=tokyonight"/>
 
 안녕하세요! 항상 꿈을 꾸고 도전하는 개발자 송미진 입니다!<br>
-프로트와 백앤드에 모두 관심이 있으며, 현재는 주니어 Android 개발자로서 공부중입니다! 💛
+현재는 주니어 Android 개발자로서 공부중입니다! 💛
 
 ## 💻 Studying now...
 
@@ -53,13 +53,6 @@
 
 <br>
 
-## 📃 My Resume & Portfolio ✏
-
-<a href="https://glossy-amaranthus-45d.notion.site/b4efdeaf86a4458bbb40c42d86ca04e0">
- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
- </a>
- 
- 
  ## 📖 Blog ✏
 
 <a href="https://sju01334.tistory.com">
